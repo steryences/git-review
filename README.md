@@ -14,3 +14,6 @@
 
 ### git push
 `git push`
+
+### reverse git add
+`git rm --cached file_path`
